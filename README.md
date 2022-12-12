@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GreetDeveloper
-- 👀 I’m interested in ... OS ML web
-- 🌱 I’m currently learning ... OS ML web
+- 👀 I’m interested in ... OS ML web Development 
+- 🌱 I’m currently learning ... C++ to Develop AI Project 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 📫 Mail: bahadoriborz@gmail.com
 
 <!---
 GreetDeveloper/GreetDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
