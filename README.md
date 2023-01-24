@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @GreetDeveloper
-- 👀 I’m interested in ... OS ML web Development 
-- 🌱 I’m currently learning ... C++ to Develop AI Project 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Mustafa 
+- 👀 I’m interested in ...  Machin Learning, Web Development, DevOps 
 - 📫 Mail: bahadoriborz@gmail.com
 
 <!---
