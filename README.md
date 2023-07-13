@@ -1,7 +1,7 @@
 - 👋 Hi, Ich bin Mustafa 
 - 👀 Ich interessiere mich für Webentwicklungsprogrammierung.
 
-- Willkommen in der faszinierenden Welt der Webentwicklungsprogrammierung!
+-  der faszinierenden Welt der Webentwicklungsprogrammierung!
 <!---
 GreetDeveloper/GreetDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
