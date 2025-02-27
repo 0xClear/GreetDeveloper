@@ -5,6 +5,12 @@ Ich interessiere mich für die faszinierende Welt der **Webentwicklungsprogrammi
 ## Meine Fähigkeiten:
 ![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=0xclear&layout=compact)
 
+## Programmiersprachen & Technologien:
+- **JavaScript** | **HTML** | **CSS**
+- **React.js** | **Next.js**
+- **Java** | **Spring Boot Microservices**
+- **Oracle** | **AWS** | **Git**
+
 ## GitHub-Statistiken:
 ![GitHub-Stats](https://github-readme-stats.vercel.app/api?username=0xclear&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
@@ -18,4 +24,5 @@ Ich interessiere mich für die faszinierende Welt der **Webentwicklungsprogrammi
 [![ReadMe Stats](https://github-readme-stats.vercel.app/api/pin/?username=0xclear&repo=Java.advanced)](https://github.com/0xclear/Java.advanced)
 
 ---
+
 Viel Spaß beim Programmieren! 🚀
