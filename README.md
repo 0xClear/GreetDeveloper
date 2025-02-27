@@ -18,5 +18,4 @@ Ich interessiere mich für die faszinierende Welt der **Webentwicklungsprogrammi
 [![ReadMe Stats](https://github-readme-stats.vercel.app/api/pin/?username=0xclear&repo=dein-repository-name)](https://github.com/0xclear/dein-repository-name)
 
 ---
-
 Viel Spaß beim Programmieren! 🚀
