@@ -21,7 +21,15 @@ Ich interessiere mich für die faszinierende Welt der **Webentwicklungsprogrammi
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=0xclear&theme=dark&locale=de" alt="GitHub Streak" /></a>
 
 ## Meine Repositories:
-[![ReadMe Stats](https://github-readme-stats.vercel.app/api/pin/?username=0xclear&repo=Java.advanced)](https://github.com/0xclear/Java.advanced)
+
+### Öffentliche Repositories:
+- [**Java.advanced (Privat)**](https://github.com/0xclear/Java.advanced) - Ein Repository, in dem ich meine Java-Kenntnisse verbessere.
+- [**Öffentliches Repository 1**](https://github.com/0xclear/öffentlichen-repo-1) - Beschreibung deines öffentlichen Repositories.
+- [**Öffentliches Repository 2**](https://github.com/0xclear/öffentlichen-repo-2) - Beschreibung deines anderen öffentlichen Repositories.
+
+### Private Repositories (nur für mich sichtbar):
+- [**Private Repo 1**](https://github.com/0xclear/privates-repo-1) - Hier arbeite ich an privaten Projekten.
+- [**Private Repo 2**](https://github.com/0xclear/privates-repo-2) - Weitere private Projekte, die noch nicht öffentlich sind.
 
 ---
 
