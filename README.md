@@ -12,7 +12,7 @@ Ich interessiere mich für die faszinierende Welt der **Webentwicklungsprogrammi
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=0xclear)
 
 ## Meine tägliche Aktivität:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0xclear&theme=dark&locale=de)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=0xclear&theme=dark&locale=de" alt="GitHub Streak" /></a>
 
 ## Meine Repositories:
 [![ReadMe Stats](https://github-readme-stats.vercel.app/api/pin/?username=0xclear&repo=Java.advanced)](https://github.com/0xclear/Java.advanced)
